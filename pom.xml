@@ -3,7 +3,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>br.com.senac</groupId>
-    <artifactId>Atividade_04_UC15</artifactId>
+    <artifactId>Atividade_06_UC15</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
@@ -42,7 +42,7 @@
                             <createDependencyReducedPom>false</createDependencyReducedPom>
                             <transformers>
                                 <transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
-                                    <mainClass>br.com.senac.atividade_04_uc15.Atividade_04_UC15</mainClass>
+                                    <mainClass>br.com.senac.atividade_06_uc15.Atividade_06_UC15</mainClass>
                                 </transformer>
                             </transformers>
                         </configuration>
@@ -62,4 +62,5 @@
             </plugin>
         </plugins>
     </build>
+    <name>Atividade_06_UC15</name>
 </project>

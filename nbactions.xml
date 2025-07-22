@@ -13,7 +13,7 @@
                 <exec.vmArgs></exec.vmArgs>
                 <exec.args>${exec.vmArgs} -classpath %classpath ${exec.mainClass} ${exec.appArgs}</exec.args>
                 <exec.appArgs></exec.appArgs>
-                <exec.mainClass>br.com.senac.atividade_04_uc15.Atividade_04_UC15</exec.mainClass>
+                <exec.mainClass>br.com.senac.atividade_06_uc15.Atividade_06_UC15</exec.mainClass>
                 <exec.executable>java</exec.executable>
             </properties>
         </action>
